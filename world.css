@@ -1,16 +1,8 @@
 /* Add your own styles */
+main{
+    display: grid;
+}
 
 th {
-    padding-top: 12px;
-    padding-bottom: 12px;
-    text-align: left;
-    background-color: #4CAF50;
-    color: white;
-  }
-
-  table {
-      border-style:solid;
-      border-width:2px;
-      border-color:pink;
-      border-collapse: collapse;
+    background-color: #00ff84;
 }
